@@ -13,7 +13,8 @@ class Footer extends Component {
     return (
       <>
         <footer className="footer text-center">
-          <span className="text-muted">Kalon Ohmstede<a href="https://github.com/KalonOhm">  - GitHub -  </a><a href="https://www.linkedin.com/in/kalonohmstede/">LinkedIn</a></span>
+          <span className="text-muted">Kalon Ohmstede<a href="https://github.com/KalonOhm"
+          >  - GitHub -  </a><a href="https://www.linkedin.com/in/kalonohmstede/">LinkedIn</a></span>
         </footer>
       </>
     );
