@@ -33,7 +33,7 @@ class ViewBook extends Component {
 
             <div className="row">
               <label> Author Name: </label>
-              <div> {this.state.book.title}</div>
+              <div> {this.state.book.author}</div>
             </div>
 
             <div className="row">
